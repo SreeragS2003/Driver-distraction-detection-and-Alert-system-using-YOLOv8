@@ -25,5 +25,8 @@ A simple driver distraction detection and alert system using the YOLOv8 model de
 3. Clone the repository.
 
 ## How to Run
-Run the command 'cd Final_Project_Code'
+Run the command 'cd Final_MiniProject_Code'
+
 Run the command 'python ui_code.py' in the terminal.
+
+Note that the uploaded models - best.pt and last.pt are purely trained for demonstration purposes and only works for the four members of our team.
