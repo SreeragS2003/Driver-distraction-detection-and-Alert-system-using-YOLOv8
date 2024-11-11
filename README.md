@@ -18,6 +18,8 @@ A simple driver distraction detection and alert system using the YOLOv8 model de
 - **roboflow** 1.1.33
 - **ultralytics** 8.2.48
 - **gtts** 2.5.1
+- **pygame** 2.6.0
+- **pytorch** 2.3.1
 
 ## How to Configure
 1. Install Python (preferably version 3.12.4 or above).
